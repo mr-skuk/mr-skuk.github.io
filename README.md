@@ -3,7 +3,7 @@
 This repository contains the source code for my personal academic website, hosted on **GitHub Pages**.  
 The website provides an overview of my academic profile, research interests, teaching philosophy, publications, and contact information.  
 
-🔗 Live Website: [https://mr-skuk.github.io/dr-sanjay-sharma](https://mr-skuk.github.io/dr-sanjay-sharma)  
+🔗 Live Website: [https://mr-skuk.github.io/](https://mr-skuk.github.io/)  
 
 ---
 
